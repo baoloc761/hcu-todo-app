@@ -1,6 +1,6 @@
 ## Cài Đặt Yêu Cầu:
 - Node.js >= 14.x
-- Yarn >= 1.x
+- Yarn >= 1.x (npm install -g yarn or yarn install yarn)
 - Cài gói thư viện api axios Moc data và thư viện MUI: 
 	* yarn add axios axios-mock-adapter @mui/material @emotion/react @emotion/styled
 	* yarn add axios-mock-adapter
